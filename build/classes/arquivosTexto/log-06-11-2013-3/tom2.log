@@ -1,0 +1,14 @@
+[25/Oct/2013:17:31:17 +0000]|200.17.41.179|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|747|200.17.41.179|144
+[25/Oct/2013:17:34:36 +0000]|200.17.41.179|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|806|200.17.41.179|144
+[25/Oct/2013:17:51:03 +0000]|200.17.41.179|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|730|200.17.41.179|144
+[25/Oct/2013:17:56:27 +0000]|200.17.41.179|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|785|200.17.41.179|144
+[25/Oct/2013:18:26:31 +0000]|200.17.41.179|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|879|200.17.41.179|144
+[25/Oct/2013:18:27:25 +0000]|200.17.41.179|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|29322|200.17.41.179|149
+[25/Oct/2013:18:40:15 +0000]|10.102.12.65|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|96543|10.102.12.65|149
+[25/Oct/2013:18:41:12 +0000]|10.102.12.65|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|153252|10.102.12.65|150
+[25/Oct/2013:18:42:03 +0000]|10.102.12.65|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|50884|10.102.12.65|150
+[25/Oct/2013:18:44:01 +0000]|10.102.12.65|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|226822|10.102.12.65|151
+[25/Oct/2013:18:44:01 +0000]|10.102.12.65|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|226830|10.102.12.65|151
+[25/Oct/2013:18:44:02 +0000]|10.102.12.65|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|226840|10.102.12.65|151
+[25/Oct/2013:18:46:07 +0000]|10.102.12.65|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|352169|10.102.12.65|151
+[25/Oct/2013:18:46:07 +0000]|10.102.12.65|127.0.1.1|/TesteServlets/MultiplicaMatrizServlet|352202|10.102.12.65|151

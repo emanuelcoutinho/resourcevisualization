@@ -1,0 +1,176 @@
+10.102.12.52 - - [09/Oct/2013:09:44:52 +0000] "GET /Benchmarks/ComandoServlet?c=/home/ubuntu/monitor/./executaBlast.sh HTTP/1.0" 200 254
+10.102.12.52 - - [09/Oct/2013:09:44:52 +0000] "GET /Benchmarks/ComandoServlet?c=/home/ubuntu/monitor/./executaBlast.sh HTTP/1.0" 200 254
+10.102.12.52 - - [09/Oct/2013:09:45:07 +0000] "GET /Benchmarks/ComandoServlet?c=/home/ubuntu/monitor/./executaBlast.sh HTTP/1.0" 200 254
+[09/Oct/2013:20:23:07 +0000]|200.17.41.179|127.0.1.1|/Benchmarks/ComandoServlet|14018|200.17.41.179|256
+[09/Oct/2013:20:30:28 +0000]|200.17.41.179|127.0.1.1|/Benchmarks/ComandoServlet|40243|200.17.41.179|256
+[09/Oct/2013:20:32:44 +0000]|200.17.41.179|127.0.1.1|/Benchmarks/ComandoServlet|28123|200.17.41.179|256
+[09/Oct/2013:20:33:58 +0000]|200.17.41.179|127.0.1.1|/Benchmarks/ComandoServlet|114|200.17.41.179|255
+[09/Oct/2013:20:37:20 +0000]|200.17.41.179|127.0.1.1|/Benchmarks/ComandoServlet|7|200.17.41.179|253
+[09/Oct/2013:20:37:44 +0000]|200.17.41.179|127.0.1.1|/Benchmarks/ComandoServlet|6|200.17.41.179|253
+[09/Oct/2013:21:09:29 +0000]|200.17.41.179|127.0.1.1|/Benchmarks/ComandoServlet|8|200.17.41.179|253
+200.17.41.179 - - [09/Oct/2013:08:15:35 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 218
+200.17.41.179 - - [09/Oct/2013:08:15:37 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 218
+200.17.41.179 - - [09/Oct/2013:08:15:38 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 218
+200.17.41.179 - - [09/Oct/2013:08:15:38 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 218
+200.17.41.179 - - [09/Oct/2013:08:15:39 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 218
+200.17.41.179 - - [09/Oct/2013:08:15:39 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 218
+200.17.41.179 - - [09/Oct/2013:08:15:39 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+200.17.41.179 - - [09/Oct/2013:08:15:40 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 218
+200.17.41.179 - - [09/Oct/2013:08:15:40 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 220
+200.17.41.179 - - [09/Oct/2013:08:57:34 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 220
+200.17.41.179 - - [09/Oct/2013:08:57:35 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+200.17.41.179 - - [09/Oct/2013:08:57:36 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+200.17.41.179 - - [09/Oct/2013:08:57:37 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+200.17.41.179 - - [09/Oct/2013:08:57:37 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+200.17.41.179 - - [09/Oct/2013:08:58:09 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 221
+200.17.41.179 - - [09/Oct/2013:09:08:24 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 220
+200.17.41.179 - - [09/Oct/2013:09:08:54 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 220
+200.17.41.179 - - [09/Oct/2013:09:10:49 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 220
+200.17.41.179 - - [09/Oct/2013:09:11:53 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 220
+200.17.41.179 - - [09/Oct/2013:09:12:00 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 221
+200.17.41.179 - - [09/Oct/2013:09:12:09 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 223
+200.17.41.179 - - [09/Oct/2013:09:12:50 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 220
+200.17.41.179 - - [09/Oct/2013:09:12:57 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 223
+200.17.41.179 - - [09/Oct/2013:09:16:35 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 220
+200.17.41.179 - - [09/Oct/2013:09:17:23 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 220
+200.17.41.179 - - [09/Oct/2013:09:22:11 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 220
+200.17.41.179 - - [09/Oct/2013:09:22:32 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 220
+200.17.41.179 - - [09/Oct/2013:09:26:13 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=2000 HTTP/1.0" 200 220
+10.102.12.52 - - [09/Oct/2013:09:45:16 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:18 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:20 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:22 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:24 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:25 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:26 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:27 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:28 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:29 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:30 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:31 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:32 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 220
+10.102.12.52 - - [09/Oct/2013:09:45:33 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:34 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:35 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:36 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:37 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:38 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:39 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 220
+10.102.12.52 - - [09/Oct/2013:09:45:40 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:41 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:42 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:43 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:44 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:45 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:46 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:47 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 220
+10.102.12.52 - - [09/Oct/2013:09:45:48 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:49 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:50 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:51 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:52 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:53 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:54 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:55 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:56 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:57 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 220
+10.102.12.52 - - [09/Oct/2013:09:45:58 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:45:59 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:46:00 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:46:01 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:46:02 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 220
+10.102.12.52 - - [09/Oct/2013:09:46:03 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:46:04 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:46:05 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:46:06 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:46:07 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:46:09 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+10.102.12.52 - - [09/Oct/2013:09:46:11 +0000] "GET /Benchmarks/MultiplicaMatrizServlet?i=3&j=2&k=4&x=200&y=200&z=200 HTTP/1.0" 200 219
+[09/Oct/2013:20:30:10 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|21|10.102.12.52|219
+[09/Oct/2013:20:30:11 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|15|10.102.12.52|219
+[09/Oct/2013:20:30:12 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|11|10.102.12.52|219
+[09/Oct/2013:20:30:13 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|19|10.102.12.52|219
+[09/Oct/2013:20:30:14 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|18|10.102.12.52|219
+[09/Oct/2013:20:30:15 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|45|10.102.12.52|219
+[09/Oct/2013:20:30:16 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|19|10.102.12.52|219
+[09/Oct/2013:20:30:17 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|20|10.102.12.52|219
+[09/Oct/2013:20:30:18 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|31|10.102.12.52|219
+[09/Oct/2013:20:30:19 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|17|10.102.12.52|220
+[09/Oct/2013:20:30:20 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|58|10.102.12.52|220
+[09/Oct/2013:20:30:21 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|140|10.102.12.52|221
+[09/Oct/2013:20:30:22 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|19|10.102.12.52|220
+[09/Oct/2013:20:30:23 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|19|10.102.12.52|220
+[09/Oct/2013:20:30:24 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|19|10.102.12.52|220
+[09/Oct/2013:20:30:25 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|22|10.102.12.52|220
+[09/Oct/2013:20:30:26 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|27|10.102.12.52|220
+[09/Oct/2013:20:30:27 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|31|10.102.12.52|220
+[09/Oct/2013:20:30:28 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|40|10.102.12.52|220
+[09/Oct/2013:20:30:29 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|17|10.102.12.52|220
+[09/Oct/2013:20:30:30 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|54|10.102.12.52|220
+[09/Oct/2013:20:30:31 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|29|10.102.12.52|220
+[09/Oct/2013:20:30:32 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|17|10.102.12.52|220
+[09/Oct/2013:20:30:33 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|21|10.102.12.52|220
+[09/Oct/2013:20:30:34 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|16|10.102.12.52|220
+[09/Oct/2013:20:30:35 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|35|10.102.12.52|220
+[09/Oct/2013:20:30:36 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|15|10.102.12.52|220
+[09/Oct/2013:20:30:37 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|15|10.102.12.52|220
+[09/Oct/2013:20:30:38 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|15|10.102.12.52|220
+[09/Oct/2013:20:30:39 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|15|10.102.12.52|220
+[09/Oct/2013:20:30:40 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|22|10.102.12.52|220
+[09/Oct/2013:20:30:41 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|17|10.102.12.52|220
+[09/Oct/2013:20:30:42 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|12|10.102.12.52|220
+[09/Oct/2013:20:30:43 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|22|10.102.12.52|220
+[09/Oct/2013:20:30:44 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|16|10.102.12.52|220
+[09/Oct/2013:20:30:45 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|23|10.102.12.52|220
+[09/Oct/2013:20:30:46 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|4|10.102.12.52|219
+[09/Oct/2013:20:30:48 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:20:59:34 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|48|10.102.12.52|220
+[09/Oct/2013:20:59:36 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|24|10.102.12.52|220
+[09/Oct/2013:20:59:38 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|17|10.102.12.52|220
+[09/Oct/2013:20:59:40 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|17|10.102.12.52|220
+[09/Oct/2013:20:59:42 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|33|10.102.12.52|220
+[09/Oct/2013:20:59:44 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|18|10.102.12.52|220
+[09/Oct/2013:20:59:46 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|21|10.102.12.52|220
+[09/Oct/2013:20:59:48 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|17|10.102.12.52|220
+[09/Oct/2013:20:59:50 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|24|10.102.12.52|220
+[09/Oct/2013:20:59:52 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|17|10.102.12.52|220
+[09/Oct/2013:20:59:54 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|24|10.102.12.52|220
+[09/Oct/2013:20:59:56 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|27|10.102.12.52|220
+[09/Oct/2013:20:59:58 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|23|10.102.12.52|220
+[09/Oct/2013:21:00:00 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|17|10.102.12.52|220
+[09/Oct/2013:21:00:02 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|17|10.102.12.52|220
+[09/Oct/2013:21:00:04 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|27|10.102.12.52|220
+[09/Oct/2013:21:00:06 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|17|10.102.12.52|220
+[09/Oct/2013:21:00:08 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|17|10.102.12.52|220
+[09/Oct/2013:21:00:10 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|20|10.102.12.52|220
+[09/Oct/2013:21:00:12 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|17|10.102.12.52|220
+[09/Oct/2013:21:00:14 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|13|10.102.12.52|220
+[09/Oct/2013:21:00:16 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|24|10.102.12.52|220
+[09/Oct/2013:21:00:18 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|16|10.102.12.52|220
+[09/Oct/2013:21:00:20 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|24|10.102.12.52|220
+[09/Oct/2013:21:00:22 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|16|10.102.12.52|220
+[09/Oct/2013:21:01:04 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:21:01:06 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|4|10.102.12.52|219
+[09/Oct/2013:21:01:08 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:21:01:10 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:21:01:12 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|4|10.102.12.52|219
+[09/Oct/2013:21:01:14 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:21:01:16 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|4|10.102.12.52|219
+[09/Oct/2013:21:01:18 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:21:01:20 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:21:01:22 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:21:01:24 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:21:01:26 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|4|10.102.12.52|219
+[09/Oct/2013:21:01:28 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|8|10.102.12.52|219
+[09/Oct/2013:21:01:30 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:21:01:32 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|13|10.102.12.52|219
+[09/Oct/2013:21:01:34 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|22|10.102.12.52|220
+[09/Oct/2013:21:01:36 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|4|10.102.12.52|219
+[09/Oct/2013:21:01:38 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:21:01:40 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:21:01:42 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|11|10.102.12.52|219
+[09/Oct/2013:21:01:44 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:21:01:46 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|4|10.102.12.52|219
+[09/Oct/2013:21:01:48 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
+[09/Oct/2013:21:01:50 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|6|10.102.12.52|219
+[09/Oct/2013:21:01:52 +0000]|10.102.12.52|127.0.1.1|/Benchmarks/MultiplicaMatrizServlet|3|10.102.12.52|219
